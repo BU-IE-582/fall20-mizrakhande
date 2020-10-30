@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# Example Progress Journal
 
-You can use the [editor on GitHub](https://github.com/BU-IE-582/fall20-mizrakhande/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Week 0 (October 30)
+[Here](files/Homework0_interesting_R_examples.html) is my example homework.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
