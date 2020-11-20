@@ -12,12 +12,16 @@
 
 [Here](files/IE582_HW1_Q1.ipynb) is my Jupyter notebook for Task 1 
 
-[Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/IE582_HW1_Q1.ipynb)
+In addition, you can directly see the code of Task 1 from [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/IE582_HW1_Q1.ipynb) if you do not want to download the notebook.
 
 [Here](files/IE582_HW1_Q2.html) is my Task 2 
 
 [Here](files/IE582_HW1_Q2.ipynb) is my Jupyter notebook for Task 2
 
+In addition, you can directly see the code of Task 2 from [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/IE582_HW1_Q2.ipynb) if you do not want to download the notebook.
+
 [Here](files/IE582_HW1_Q3.html) is my Task 3
 
 [Here](files/IE582_HW1_Q3.ipynb) is my Jupyter notebook for Task 3
+
+In addition, you can directly see the code of Task 3 from [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/IE582_HW1_Q3.ipynb) if you do not want to download the notebook.
