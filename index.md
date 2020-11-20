@@ -10,7 +10,9 @@
 
 [Here](files/IE582_HW1_Q1.html) is my Task 1 
 
-[Here](files/IE582_HW1_Q1.ipynb) is my Jupyter notebook for Task 1
+[Here](files/IE582_HW1_Q1.ipynb) is my Jupyter notebook for Task 1 
+
+[Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/IE582_HW1_Q1.ipynb)
 
 [Here](files/IE582_HW1_Q2.html) is my Task 2 
 
