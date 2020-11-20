@@ -7,5 +7,7 @@
 ## Week 3 (November 20)
 
 [Here](files/IE582_HW1_Q1.html) is my Task 1
+
 [Here](files/IE582_HW1_Q2.html) is my Task 2
+
 [Here](files/IE582_HW1_Q3.html) is my Task 3
