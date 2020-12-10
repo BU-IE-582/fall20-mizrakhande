@@ -32,7 +32,7 @@ In addition, you can directly see the code of Task 3 from [Here](https://github.
 
 [Here](files/IE582_HW1_Q1.html) is my part a
 
-[Here](files/IE582_HW1_Q1.ipynb) is my Jupyter notebook for part a
+[Here](files/IE582_HW2_part_a.ipynb) is my Jupyter notebook for part a
 
 In addition, you can directly see the code for part a from [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/IE582_HW1_Q1.ipynb) if you do not want to download the notebook.
 
