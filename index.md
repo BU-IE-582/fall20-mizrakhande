@@ -34,22 +34,22 @@ In addition, you can directly see the code of Task 3 from [Here](https://github.
 
 [Here](files/IE582_HW2_part_a.ipynb) is my Jupyter notebook for part a
 
-In addition, you can directly see the code for part a from [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/IE582_HW1_Q1.ipynb) if you do not want to download the notebook.
+Please see [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/IE582_HW1_Q1.ipynb) if you do not want to download the notebook.
 
 [Here](files/IE582_HW1_Q2.html) is my my part b
 
 [Here](files/IE582_HW1_Q2.ipynb) is my Jupyter notebook for part b
 
-In addition, you can directly see the code for part b from [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/IE582_HW1_Q2.ipynb) if you do not want to download the notebook.
+Please see [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/IE582_HW1_Q2.ipynb) if you do not want to download the notebook.
 
 [Here](files/IE582_HW1_Q3.html) is my part c
 
 [Here](files/IE582_HW1_Q3.ipynb) is my Jupyter notebook for part c
 
-In addition, you can directly see the code for part c from [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/IE582_HW1_Q3.ipynb) if you do not want to download the notebook.
+Please see [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/IE582_HW1_Q3.ipynb) if you do not want to download the notebook.
 
 [Here](files/IE582_HW1_Q3.html) is my part d
 
 [Here](files/IE582_HW1_Q3.ipynb) is my Jupyter notebook for part d
 
-In addition, you can directly see the code for part d from [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/IE582_HW1_Q3.ipynb) if you do not want to download the notebook.
+Please see [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/IE582_HW1_Q3.ipynb) if you do not want to download the notebook.
