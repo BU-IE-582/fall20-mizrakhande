@@ -30,25 +30,25 @@ In addition, you can directly see the code of Task 3 from [Here](https://github.
 
 ## Week 6 (December 11)
 
-[Here](files/IE582_HW2_part_a.html) is my part a
+[Here](files/IE582_HW2_part_a.html) is my html file for part a
 
 [Here](files/IE582_HW2_part_a.ipynb) is my Jupyter notebook for part a
 
 Please see [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/IE582_HW1_Q1.ipynb) if you do not want to download the notebook.
 
-[Here](files/IE582_HW1_Q2.html) is my my part b
+[Here](files/IE582_HW1_Q2.html) is my html file for  part b
 
 [Here](files/IE582_HW1_Q2.ipynb) is my Jupyter notebook for part b
 
 Please see [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/IE582_HW1_Q2.ipynb) if you do not want to download the notebook.
 
-[Here](files/IE582_HW1_Q3.html) is my part c
+[Here](files/IE582_HW1_Q3.html) is my html file for part c
 
 [Here](files/IE582_HW1_Q3.ipynb) is my Jupyter notebook for part c
 
 Please see [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/IE582_HW1_Q3.ipynb) if you do not want to download the notebook.
 
-[Here](files/IE582_HW1_Q3.html) is my part d
+[Here](files/IE582_HW1_Q3.html) is my html file for part d
 
 [Here](files/IE582_HW1_Q3.ipynb) is my Jupyter notebook for part d
 
