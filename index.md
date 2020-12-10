@@ -30,7 +30,7 @@ In addition, you can directly see the code of Task 3 from [Here](https://github.
 
 ## Week 6 (December 11)
 
-[Here](files/IE582_HW1_Q1.html) is my part a
+[Here](files/IE582_HW2_part_a.html) is my part a
 
 [Here](files/IE582_HW2_part_a.ipynb) is my Jupyter notebook for part a
 
