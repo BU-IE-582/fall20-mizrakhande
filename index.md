@@ -61,3 +61,12 @@ Please see [Here](hhttps://github.com/BU-IE-582/fall20-mizrakhande/blob/master-b
 [Here](files/IE582_HW2_part_d.ipynb) is my Jupyter notebook for part d
 
 Please see [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/IE582_HW2_part_d.ipynb) if you do not want to download the notebook.
+
+
+# Homework 3
+
+## Week 8 (January 1)
+
+##Part a
+
+[Here](files/HW3_part_a.html) is my html file for part a
