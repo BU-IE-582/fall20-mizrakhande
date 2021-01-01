@@ -70,25 +70,33 @@ Please see [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-br
 ##Part a
 
 [Here](files/HW3_part_a.html) is my html file for part a
+
 [Here](files/HW3_part_a.ipynb) is my Jupyter notebook for part a
+
 Please see [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/HW3_part_a.ipynb) if you do not want to download the notebook.
 
 ##Part b
 
 [Here](files/HW3_part_b.html) is my html file for part b
+
 [Here](files/HW3_part_b.ipynb) is my Jupyter notebook for part b
+
 Please see [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/HW3_part_b.ipynb) if you do not want to download the notebook.
 
 ##Part c
 
 [Here](files/HW3_part_c.html) is my html file for part c
+
 [Here](files/HW3_part_c.ipynb) is my Jupyter notebook for part c
+
 Please see [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/HW3_part_c.ipynb) if you do not want to download the notebook.
 
 ##Part d
 
 [Here](files/HW3_part_d.html) is my html file for part d
+
 [Here](files/HW3_part_d.ipynb) is my Jupyter notebook for part d
+
 Please see [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/HW3_part_d.ipynb) if you do not want to download the notebook.
 
 ##BONUS
