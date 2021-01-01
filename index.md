@@ -103,6 +103,11 @@ Please see [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-br
 
 [Here](files/HW3_BONUS.html) is my html file for bonus question
 
+[Here](files/HW3_BONUS.ipynb) is my Jupyter notebook for part d
+
+Please see [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/HW3_BONUS.ipynb) if you do not want to download the notebook.
+
+
 
 
 
