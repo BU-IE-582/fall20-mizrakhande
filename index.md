@@ -78,3 +78,11 @@ Please see [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-br
 ##Part c
 
 [Here](files/HW3_part_c.html) is my html file for part c
+
+##Part d
+
+[Here](files/HW3_part_d.html) is my html file for part d
+
+##BONUS
+
+[Here](files/HW3_part_c.html) is my html file for bonus question
