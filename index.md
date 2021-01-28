@@ -108,6 +108,10 @@ Please see [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-br
 Please see [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-branch/files/HW3_bonus.ipynb) if you do not want to download the notebook.
 
 
+# Homework 4
 
+## January 29
+
+[Here](files/HW4.html) is my html file for HW4
 
 
