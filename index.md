@@ -124,5 +124,5 @@ Please see [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-br
 
 [Here](files/SOLUTIONS_FOR_IMBALANCE and HYPERPARAMETER SEARCH) is our html file for solution methods to imbalance problem and for hyperparameters search with CV.
 
-
+[Here](files/PROJECT_XGBOOST_) is our html file for XGBOOST model
 
