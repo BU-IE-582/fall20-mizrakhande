@@ -116,5 +116,13 @@ Please see [Here](https://github.com/BU-IE-582/fall20-mizrakhande/blob/master-br
 
 [Here](files/IE582_HW4_Part_4_Comments) is my comments file for part 4.
 
+# PROJECT
+
+## February 15
+
+[Here](files/PROJECT_FINAL_SUBMISSION) is our html file for final model submission
+
+[Here](files/SOLUTIONS_FOR_IMBALANCE and HYPERPARAMETER SEARCH) is our html file for solution methods to imbalance problem and for hyperparameters search with CV.
+
 
 
